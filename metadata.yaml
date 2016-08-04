@@ -1,0 +1,24 @@
+_repo: Three-Acres-and-Liberty_4509
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hall, Bolton
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1485'
+    url: http://www.gutenberg.org/2009/agents/1485
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture'
+- !lcc 'S'
+- GITenberg
+title: Three Acres and Liberty
+url: http://www.gutenberg.org/ebooks/4509
